@@ -473,3 +473,7 @@ PRODUCT_BOOT_JARS += \
 PRODUCT_PACKAGES += \
 	libnl \
 	libwfdaac
+
+# XiaomiParts
+PRODUCT_PACKAGES += \
+    XiaomiParts
