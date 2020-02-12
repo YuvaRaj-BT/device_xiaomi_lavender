@@ -1,7 +1,7 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/ion_lavender.mk
+    $(LOCAL_DIR)/havoc_lavender.mk
 
 COMMON_LUNCH_CHOICES := \
-    ion_lavender-user \
-    ion_lavender-userdebug \
-    ion_lavender-eng
+    havoc_lavender-user \
+    havoc_lavender-userdebug \
+    havoc_lavender-eng
